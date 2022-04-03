@@ -26,6 +26,7 @@ body {
   /* background-color: #fffff7; */
   font-family: var(--body-font-family);
   font-size: var(--f_size);
+  /* font-weight: 800; */
 }
 
 button {
@@ -202,6 +203,7 @@ img[alt="illustration-mockups"] {
   /* background-color: #fff; */
   /* box-shadow: 0 0 10px 5px white; */
   border-radius: 1.5rem;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
   margin-bottom: 0.7rem;
 }
 
@@ -241,6 +243,7 @@ footer {
   text-align: center;
   margin: 0 auto;
   border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   position: relative;
   bottom: -90px;
   padding: 1.7rem 0.4rem 2rem;
